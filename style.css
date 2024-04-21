@@ -1,0 +1,24 @@
+.back{
+    background: #F0ECF9;
+
+}
+.back1{
+    background: #F0ECF9;
+    border-bottom-right-radius:125px ;
+
+}
+.container{
+    font-family:'Gill Sans', 'Gill Sans MT',  sans-serif;
+    font-weight:600;
+ 
+}
+.my{
+   color: #6F42C1;
+}
+.img{
+    width: 100%;
+}
+.btn{
+    background: #6F42C1;
+    color: aliceblue;
+}
