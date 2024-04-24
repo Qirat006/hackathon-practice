@@ -22,3 +22,15 @@
     background: #6F42C1;
     color: aliceblue;
 }
+.card{
+    border-radius: 10px;
+    /* height: 18em;
+    width: 14em; */
+    box-shadow: gray 2px -2px 2px 1px;
+}
+
+
+.home{
+    background: #E2D9F3;
+
+}
